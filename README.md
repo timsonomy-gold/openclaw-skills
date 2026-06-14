@@ -4,14 +4,33 @@ Custom OpenClaw skills maintained in GitHub as the canonical source of truth.
 
 ## Included skills
 
-- ingest
-- lint
-- psych
-- query
-- save
-- scan-x-accounts
-- scan-x-primitives
-- scan-x-trending
+| Skill | Purpose |
+|---|---|
+| `ingest` | Process new notes from `Products/Notes/` and route them into the right knowledge directories after approval. |
+| `lint` | Audit the `Products/` knowledge base for orphan pages, stale content, missing links, and note backlog. |
+| `psych` | Provide emotional processing and psychological support when the user needs reflection rather than action-pushing. |
+| `query` | Answer questions by searching and synthesizing the user's `Products/` knowledge base first. |
+| `save` | Save the current conversation as a structured Markdown note in `Products/Notes/Conversation/`. |
+| `scan-x-accounts` | Monitor selected X accounts and extract A/B category topic signals from recent high-value posts. |
+| `scan-x-primitives` | Mine X for A-category tool tutorial topics using the five action primitives framework. |
+| `scan-x-trending` | Scan X for B-category hot news and product-analysis topic opportunities. |
+
+## Repository structure
+
+```text
+.
+├── CHANGELOG.md
+├── README.md
+├── RELEASE.md
+├── ingest/
+├── lint/
+├── psych/
+├── query/
+├── save/
+├── scan-x-accounts/
+├── scan-x-primitives/
+└── scan-x-trending/
+```
 
 ## Versioning policy
 
