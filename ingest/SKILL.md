@@ -1,6 +1,8 @@
 ---
 name: ingest
 description: Use when the user says "处理 Notes/", "分发", "ingest", or wants to process new content from `Products/Notes/` into the appropriate `Products/` knowledge directories.
+version: 0.1.0
+last_updated: 2026-06-14
 ---
 
 # Ingest - Products/Notes 分发入库

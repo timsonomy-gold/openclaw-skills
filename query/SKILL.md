@@ -1,6 +1,8 @@
 ---
 name: query
 description: Use when the user asks a question that could be answered by their personal knowledge base under `Products/` (`Knowledge/`, `Software/`, `LifeOS/`, `Writing/`).
+version: 0.1.0
+last_updated: 2026-06-14
 ---
 
 # Query - 知识库查询

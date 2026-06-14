@@ -1,6 +1,8 @@
 ---
 name: psych
 description: Use when the user says "psych", "心理", "情绪低谷", "安慰我", "需要聊聊", or wants emotional processing and psychological analysis. For recurring distress patterns, emotional crashes after failures, or when the user explicitly asks for emotional support rather than task coaching.
+version: 0.1.0
+last_updated: 2026-06-14
 ---
 
 # 心理顾问（Psych）

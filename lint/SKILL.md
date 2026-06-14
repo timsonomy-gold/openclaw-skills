@@ -1,6 +1,8 @@
 ---
 name: lint
 description: Use when the user says "lint", "检查", "健康检查", or wants to audit the knowledge base health under `Products/`. Checks for orphan pages, stale content, missing cross-references, and `Products/Notes/` backlog.
+version: 0.1.0
+last_updated: 2026-06-14
 ---
 
 # Lint - 知识库健康检查

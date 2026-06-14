@@ -1,6 +1,8 @@
 ---
 name: save
 description: Use when the user says "保存聊天记录", "保存对话", "save", or wants to save the current conversation as a Markdown document to Products/Notes/Conversation/. Triggers on any request to persist the current chat session.
+version: 0.1.0
+last_updated: 2026-06-14
 ---
 
 # Save - 保存聊天记录

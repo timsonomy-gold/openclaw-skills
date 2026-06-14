@@ -1,6 +1,8 @@
 ---
 name: scan-x-trending
 description: Use when the user says "X热点", "抓X新闻", "scan-x-trending", "X热点选题", or wants to mine X/Twitter for B类 hot news and product analysis topics.
+version: 0.1.0
+last_updated: 2026-06-14
 ---
 
 # Scan-X-Trending — X 平台热点选题侦察

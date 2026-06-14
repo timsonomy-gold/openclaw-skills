@@ -1,6 +1,8 @@
 ---
 name: scan-x-accounts
 description: Use when the user says "监控X账号", "特定账号选题", "scan-x-accounts", "看特定推主", or wants to scan specific tracked X/Twitter accounts for topic signals.
+version: 0.1.0
+last_updated: 2026-06-14
 ---
 
 # Scan-X-Accounts — 特定 X 账号内容监控

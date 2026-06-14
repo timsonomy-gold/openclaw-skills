@@ -1,6 +1,8 @@
 ---
 name: scan-x-primitives
 description: Use when the user says "行动原语选题", "从X找工具教程选题", "scan-x-primitives", or wants to mine X/Twitter specifically for A类工具教程 topics using the 五个行动原语 framework.
+version: 0.1.0
+last_updated: 2026-06-14
 ---
 
 # Scan-X-Primitives — 行动原语工具教程选题侦察
